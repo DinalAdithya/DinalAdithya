@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer.Undergraduate
 -----------------------
 
-Hi! I'm Dinal Adithya | . . . I'm an undergraduate student at SLIIT in Sri Lanka.
+I'm an undergraduate student at SLIIT in Sri Lanka.
 
 * 🌍  I'm based in Kottawa
 * ✉️  You can contact me at [dinal4adithya@gmail.com](mailto:dinal4adithya@gmail.com)
