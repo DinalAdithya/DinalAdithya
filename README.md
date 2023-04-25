@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * ✉️  You can contact me at [dinal4adithya@gmail.com](mailto:dinal4adithya@gmail.com)
-* 🚀  I'm currently working on [Web application for Lion Tours Company]
+* 🚀  I'm currently working on Web application for Lion Tours Company
 * 🧠  I'm learning Information Technology at SLIIT
 * ⚡  As a hobby, I do MMA & love to play Video games
 
