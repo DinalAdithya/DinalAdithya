@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dinal Adithya
 =====================================================================================================================================
 
-* 🌍  I'm based in Kottawa
+
 * ✉️  You can contact me at [dinal4adithya@gmail.com](mailto:dinal4adithya@gmail.com)
 * 🚀  I'm currently working on [Web application for Lion Tours Company](http://Web application for Lion Tours Company)
 * 🧠  I'm learning Information Technology at SLIIT
