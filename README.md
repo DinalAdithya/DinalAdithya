@@ -10,10 +10,7 @@ Developer, Undergraduate Student
 * 🤝  I'm open to collaborating on exciting AI development projects
 * ⚡  I do MMA and love to play Video games
 
-<a href="https://www.github.com/DinalAdithya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DinalAdithya?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a><a href="https://www.x.com/Dinal_Adithya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Dinal_Adithya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=171717"
-/></a>
+
 
 ### Skills
 
@@ -26,6 +23,11 @@ src="https://img.shields.io/twitter/follow/Dinal_Adithya?logo=twitter&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DinalAdithya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dinal-adithya/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Dinal_Adithya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+<a href="https://www.github.com/DinalAdithya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DinalAdithya?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a><a href="https://www.x.com/Dinal_Adithya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Dinal_Adithya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=171717"
+/></a>
 
 ### Badges
 
